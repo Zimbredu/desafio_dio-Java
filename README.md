@@ -2,6 +2,11 @@
  width"40" height="80"/>.</h1></p> 
  
  
+[![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()</p>
+
+ 
+ 
 <!--![Proj_dio_Bootcamp drawio (1)](https://user-images.githubusercontent.com/66042254/146995044-dded2847-65e1-4db1-bc53-927279c093b2.png)-->
  ##
  <div align="center">
